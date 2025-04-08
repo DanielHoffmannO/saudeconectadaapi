@@ -1,0 +1,6 @@
+@TelemedicinaApi_HostAddress = http://localhost:5195
+
+GET {{TelemedicinaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

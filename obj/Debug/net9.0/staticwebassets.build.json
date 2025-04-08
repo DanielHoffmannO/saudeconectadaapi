@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KW63uqM9U1/wyye2y5us8jCMTh+qm8u1cuepLbWI2X0=",
+  "Source": "TelemedicinaApi",
+  "BasePath": "_content/TelemedicinaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
